@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">activitytaskstackpart1</string>
+    <string name="title_activity_a">ActivityA</string>
+    <string name="title_activity_b">ActivityB</string>
+    <string name="title_activity_c">ActivityC</string>
+    <string name="title_activity_d">ActivityD</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
